@@ -9,7 +9,7 @@
 ### Connect with me: 
 [![LinkedIn](<https://badgewind.vercel.app/api/-LinkedIn?badgeStyle=border-0|rounded-full&leftStyle=rounded-full|mr-1|bg-(@525dea)&rightStyle=rounded-r-full|rounded-l|bg-|pl-0|pr-2&icon=simple-icons:linkedin&iconStyle=text-white>)](https://www.linkedin.com/in/ijhonamnhn/)
 
-### Current Tech Used:
+### Current Tech and Tools Used:
 [![JavaScript](<https://badgewind.vercel.app/api/-JavaScript?badgeStyle=border-0|rounded-full&leftStyle=rounded-full|mr-1|bg-(@525dea)&rightStyle=rounded-r-full|rounded-l|bg-|pl-0|pr-2&icon=simple-icons:github&iconStyle=text-white>)]()
 [![HTML5](<https://badgewind.vercel.app/api/-HTML5?badgeStyle=border-0|rounded-full&leftStyle=rounded-full|mr-1|bg-(@525dea)&rightStyle=rounded-r-full|rounded-l|bg-|pl-0|pr-2&icon=simple-icons:github&iconStyle=text-white>)]()
 [![CSS3](<https://badgewind.vercel.app/api/-CSS3?badgeStyle=border-0|rounded-full&leftStyle=rounded-full|mr-1|bg-(@525dea)&rightStyle=rounded-r-full|rounded-l|bg-|pl-0|pr-2&icon=simple-icons:github&iconStyle=text-white>)]()
