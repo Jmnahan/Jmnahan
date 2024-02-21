@@ -16,8 +16,11 @@
 [![VueJS](<https://badgewind.vercel.app/api/-VueJS?badgeStyle=border-0|rounded-full&leftStyle=rounded-full|mr-1|bg-(@525dea)&rightStyle=rounded-r-full|rounded-l|bg-|pl-0|pr-2&icon=simple-icons:github&iconStyle=text-white>)]()
 [![GraphQL](<https://badgewind.vercel.app/api/-GraphQL?badgeStyle=border-0|rounded-full&leftStyle=rounded-full|mr-1|bg-(@525dea)&rightStyle=rounded-r-full|rounded-l|bg-|pl-0|pr-2&icon=simple-icons:github&iconStyle=text-white>)]()
 [![TailwindCSS](<https://badgewind.vercel.app/api/-TailwindCSS?badgeStyle=border-0|rounded-full&leftStyle=rounded-full|mr-1|bg-(@525dea)&rightStyle=rounded-r-full|rounded-l|bg-|pl-0|pr-2&icon=simple-icons:github&iconStyle=text-white>)]()
+[![Ubuntu](<https://badgewind.vercel.app/api/-Ubuntu?badgeStyle=border-0|rounded-full&leftStyle=rounded-full|mr-1|bg-(@525dea)&rightStyle=rounded-r-full|rounded-l|bg-|pl-0|pr-2&icon=simple-icons:github&iconStyle=text-white>)]()
 
 ### Tech Playground: 
+[![Netlify](<https://badgewind.vercel.app/api/-Netlify?badgeStyle=border-0|rounded-full&leftStyle=rounded-full|mr-1|bg-(@525dea)&rightStyle=rounded-r-full|rounded-l|bg-|pl-0|pr-2&icon=simple-icons:github&iconStyle=text-white>)]()
+[![Laravel](<https://badgewind.vercel.app/api/-Laravel?badgeStyle=border-0|rounded-full&leftStyle=rounded-full|mr-1|bg-(@525dea)&rightStyle=rounded-r-full|rounded-l|bg-|pl-0|pr-2&icon=simple-icons:github&iconStyle=text-white>)]()
 [![MySQL](<https://badgewind.vercel.app/api/-MySQL?badgeStyle=border-0|rounded-full&leftStyle=rounded-full|mr-1|bg-(@525dea)&rightStyle=rounded-r-full|rounded-l|bg-|pl-0|pr-2&icon=simple-icons:github&iconStyle=text-white>)]()
 
 ( this page is still under construction 😱)
