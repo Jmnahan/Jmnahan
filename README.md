@@ -9,7 +9,7 @@
 ### Connect with me: 
 [![LinkedIn](<https://badgewind.vercel.app/api/-LinkedIn?badgeStyle=border-0|rounded-full&leftStyle=rounded-full|mr-1|bg-(@0A66C2)&rightStyle=rounded-r-full|rounded-l|bg-|pl-0|pr-2&icon=simple-icons:linkedin&iconStyle=text-white>)](https://www.linkedin.com/in/ijhonamnhn/)
 
-### Current Tech and Tools Used:
+### Current Tech Tools:
 [![JavaScript](<https://badgewind.vercel.app/api/-JavaScript?badgeStyle=border-0|rounded-full&leftStyle=rounded-full|mr-1|bg-(@F7DF1E)&rightStyle=rounded-r-full|rounded-l|bg-|pl-0|pr-2&icon=simple-icons:javascript&iconStyle=text-white>)](https://devdocs.io/javascript/)
 [![HTML5](<https://badgewind.vercel.app/api/-HTML5?badgeStyle=border-0|rounded-full&leftStyle=rounded-full|mr-1|bg-(@E34F26)&rightStyle=rounded-r-full|rounded-l|bg-|pl-0|pr-2&icon=simple-icons:html5&iconStyle=text-white>)](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
 [![CSS3](<https://badgewind.vercel.app/api/-CSS3?badgeStyle=border-0|rounded-full&leftStyle=rounded-full|mr-1|bg-(@1572B6)&rightStyle=rounded-r-full|rounded-l|bg-|pl-0|pr-2&icon=simple-icons:css3&iconStyle=text-white>)](https://devdocs.io/css/)
